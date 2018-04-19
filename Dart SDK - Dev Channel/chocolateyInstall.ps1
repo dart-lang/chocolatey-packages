@@ -1,7 +1,7 @@
 $packageName = 'dart-sdk-dev'
 
-$url = 'https://storage.googleapis.com/dart-archive/channels/dev/release/2.0.0-dev.48.0/sdk/dartsdk-windows-ia32-release.zip'
-$url64 = 'https://storage.googleapis.com/dart-archive/channels/dev/release/2.0.0-dev.48.0/sdk/dartsdk-windows-x64-release.zip'
+$url = 'https://storage.googleapis.com/dart-archive/channels/dev/release/2.0.0-dev.49.0/sdk/dartsdk-windows-ia32-release.zip'
+$url64 = 'https://storage.googleapis.com/dart-archive/channels/dev/release/2.0.0-dev.49.0/sdk/dartsdk-windows-x64-release.zip'
 
 $unzipLocation = Get-BinRoot
 $installDir = Join-Path $unzipLocation "dart-sdk-dev"
@@ -19,9 +19,9 @@ $packageArgs = @{
   url            = $url
   url64bit       = $url64
   unzipLocation  = $unzipLocation
-  checksum       = 'd3837220dc6e2e0aa2858240e7435d204eb56dd9b4345000ab552faa8e2aeb48'
+  checksum       = '11883173b81cdc7998df217d986d5930f8e0188d765138424d4e6ebe2bb0135a'
   checksumType   = 'sha256'
-  checksum64     = 'b3d2e3f2622ec14264412fb8ad2d30ca80e83a57c7a79db5e99548e357354232'
+  checksum64     = '80386de66d31f49bb223982d994ef29b4027bf20999c82922c9ecfefffadf94f'
   checksumType64 = 'sha256'
 }
 
