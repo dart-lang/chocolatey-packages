@@ -3,19 +3,23 @@
   <metadata>
     <title>Dart SDK</title>
     <id>dart-sdk</id>
-    <description>
+    <description><![CDATA[
 The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.
 
 Dart is a cohesive, scalable platform for building apps that run on the web (where you can use Angular2 or Polymer) or on servers (such as with Google Cloud Platform). Use the Dart language, libraries, and tools to write anything from simple scripts to full-featured apps on the web or mobile with the Flutter platform.
-    </description>
-	<summary>The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.</summary>
-    <version>1.24.2</version>
-    <authors>Google</authors>
-	<owners>daftspaniel</owners>
+ ]]></description>
+    <summary>The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.</summary>
+    <version>$version$</version>
+    <authors>The Dart project authors</authors>
+    <owners>athomas</owners>
     <iconUrl>https://www.dartlang.org/assets/logo-61576b6c2423c80422c986036ead4a7fc64c70edd7639c6171eba19e992c87d9.svg</iconUrl>
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
-	<projectUrl>http://www.dartlang.org/</projectUrl>
-	<packageSourceUrl>https://github.com/daftspaniel/Chocolatey-Packages</packageSourceUrl>
-	<tags>Dart DartLang SDK Development VirtualMachine JSTranspiler Compiler</tags>
+    <projectUrl>http://www.dartlang.org/</projectUrl>
+    <projectSourceUrl>https://github.com/dartlang/sdk</projectSourceUrl>
+    <packageSourceUrl>https://github.com/dartlang/chocolatey-packages</packageSourceUrl>
+    <bugTrackerUrl>http://dartbug.com</bugTrackerUrl>
+    <docsUrl>https://api.dartlang.org/</docsUrl>
+    <mailingListUrl>https://groups.google.com/a/dartlang.org/forum/#!forum/misc</mailingListUrl>
+    <tags>Dart DartLang SDK Development VirtualMachine JSTranspiler Compiler</tags>
   </metadata>
 </package>
