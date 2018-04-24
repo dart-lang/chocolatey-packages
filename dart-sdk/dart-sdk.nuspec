@@ -15,8 +15,8 @@ Dart is a cohesive, scalable platform for building apps that run on the web (whe
     <iconUrl>https://www.dartlang.org/assets/logo-61576b6c2423c80422c986036ead4a7fc64c70edd7639c6171eba19e992c87d9.svg</iconUrl>
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
     <projectUrl>http://www.dartlang.org/</projectUrl>
-    <projectSourceUrl>https://github.com/dartlang/sdk</projectSourceUrl>
-    <packageSourceUrl>https://github.com/dartlang/chocolatey-packages</packageSourceUrl>
+    <projectSourceUrl>https://github.com/dart-lang/sdk</projectSourceUrl>
+    <packageSourceUrl>https://github.com/dart-lang/chocolatey-packages</packageSourceUrl>
     <bugTrackerUrl>http://dartbug.com</bugTrackerUrl>
     <docsUrl>https://api.dartlang.org/</docsUrl>
     <mailingListUrl>https://groups.google.com/a/dartlang.org/forum/#!forum/misc</mailingListUrl>
