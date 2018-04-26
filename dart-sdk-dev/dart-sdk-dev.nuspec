@@ -11,7 +11,7 @@ Dev pre-releases are now published to the dart-sdk package with the version suff
     <summary>The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.</summary>
     <version>$version$</version>
     <dependencies>
-      <dependency id="dart-sdk" version="$version$"/>
+      <dependency id="dart-sdk" version="2.0.0.50-dev"/>
     </dependencies>
     <authors>The Dart project authors</authors>
     <owners>athomas</owners>
