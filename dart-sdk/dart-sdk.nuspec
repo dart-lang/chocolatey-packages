@@ -12,7 +12,6 @@ Dart is a cohesive, scalable platform for building apps that run on the web (whe
     <version>$version$</version>
     <authors>The Dart project authors</authors>
     <owners>athomas</owners>
-    <iconUrl>https://www.dartlang.org/assets/logo-61576b6c2423c80422c986036ead4a7fc64c70edd7639c6171eba19e992c87d9.svg</iconUrl>
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
     <projectUrl>http://www.dartlang.org/</projectUrl>
     <projectSourceUrl>https://github.com/dart-lang/sdk</projectSourceUrl>
