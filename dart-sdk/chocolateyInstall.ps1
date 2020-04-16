@@ -3,7 +3,7 @@ $packageName = 'dart-sdk'
 $url = 'https://storage.googleapis.com/dart-archive/channels/$channel$/release/$version$/sdk/dartsdk-windows-ia32-release.zip'
 $url64 = 'https://storage.googleapis.com/dart-archive/channels/$channel$/release/$version$/sdk/dartsdk-windows-x64-release.zip'
 
-$unzipLocation = Get-BinRoot
+$unzipLocation = Get-ToolsLocation
 $installDir = Join-Path $unzipLocation "dart-sdk"
 
 Install-ChocolateyPath "$installDir\bin"
