@@ -13,12 +13,12 @@ Dart is a cohesive, scalable platform for building apps that run on the web (whe
     <version>$version$</version>
     <authors>The Dart project authors</authors>
     <owners>athomas</owners>
-    <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
-    <projectUrl>http://dart.dev/</projectUrl>
+    <licenseUrl>https://opensource.org/licenses/BSD-3-Clause</licenseUrl>
+    <projectUrl>https://dart.dev/</projectUrl>
     <iconUrl>https://dart.dev/f/dart-logo-1080.png</iconUrl>
     <projectSourceUrl>https://github.com/dart-lang/sdk</projectSourceUrl>
     <packageSourceUrl>https://github.com/dart-lang/chocolatey-packages</packageSourceUrl>
-    <bugTrackerUrl>http://dartbug.com</bugTrackerUrl>
+    <bugTrackerUrl>https://dartbug.com</bugTrackerUrl>
     <docsUrl>https://api.dart.dev/</docsUrl>
     <mailingListUrl>https://groups.google.com/a/dartlang.org/forum/#!forum/misc</mailingListUrl>
     <tags>Dart DartLang SDK Development VirtualMachine JSTranspiler Compiler</tags>
