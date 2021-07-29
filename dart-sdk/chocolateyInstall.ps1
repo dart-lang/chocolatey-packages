@@ -7,8 +7,8 @@ $unzipLocation = Get-ToolsLocation
 $installDir = Join-Path $unzipLocation "dart-sdk"
 
 Install-ChocolateyPath "$installDir\bin"
-Install-ChocolateyPath "${env:USERPROFILE}\AppData\Roaming\Pub\Cache\bin"
-$env:Path = "$($env:Path);$installDir\bin;${env:USERPROFILE}\AppData\Roaming\Pub\Cache\bin"
+Install-ChocolateyPath "${env:USERPROFILE}\AppData\Local\Pub\Cache\bin"
+$env:Path = "$($env:Path);$installDir\bin;${env:USERPROFILE}\AppData\Local\Pub\Cache\bin"
 
 if (test-path $installDir) {
 	Remove-Item $installDir -Recurse -Force
