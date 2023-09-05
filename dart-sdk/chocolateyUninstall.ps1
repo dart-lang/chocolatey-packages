@@ -1,4 +1,4 @@
-$unzipLocation = Get-BinRoot
+$unzipLocation = Get-ToolsLocation
 $installDir = Join-Path $unzipLocation "dart-sdk"
 
 if (test-path $installDir) {
